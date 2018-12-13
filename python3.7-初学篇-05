@@ -1,0 +1,4 @@
+print ("I love fishc.com")
+print (5+3)
+print ("Well water" + "river")
+print("I love fishc.com\n" + 8)

@@ -1,0 +1,8 @@
+变量起名
+　　1. 显示
+　　2. nums_of_alex_gf = 19 这是对的
+　　3. NumsOfAlexGf = 2 这是对的
+　　4. names-of-alex-gf = 22 这是错的
+　　5. 5name = 数字不能开头，na5me=
+　　6. !name 特殊字符不能有,~！@￥%
+　　7. name of teacher = 不能有空格
